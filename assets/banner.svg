@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Banner: a signal drifting out of its normal band, detected before it breaches the failure threshold">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="60%" stop-color="#0f2027"/>
+      <stop offset="100%" stop-color="#16333d"/>
+    </linearGradient>
+    <linearGradient id="lead" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#36BCF7" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#36BCF7" stop-opacity="0.01"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#36BCF7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="280" fill="url(#sky)"/>
+
+  <g stroke="#36BCF7" stroke-opacity="0.05" stroke-width="1">
+    <path d="M0 70h1000M0 140h1000M0 210h1000"/>
+    <path d="M125 0v280M250 0v280M375 0v280M500 0v280M625 0v280M750 0v280M875 0v280"/>
+  </g>
+
+  <rect x="520" y="140" width="250" height="110" fill="url(#lead)"/>
+  <line x1="520" y1="140" x2="520" y2="250" stroke="#36BCF7" stroke-width="1.2" stroke-dasharray="4 4" stroke-opacity="0.85"/>
+  <line x1="770" y1="140" x2="770" y2="250" stroke="#ff6b6b" stroke-width="1.2" stroke-dasharray="4 4" stroke-opacity="0.85"/>
+
+  <rect x="60" y="196" width="710" height="26" fill="#8b949e" fill-opacity="0.07"/>
+
+  <path d="M60,209 L90,205 L120,213 L150,203 L180,212 L210,206 L240,214 L270,204 L300,211 L330,207 L360,213 L390,205 L420,210 L450,208 L480,212 L510,206 L520,208 L550,202 L580,205 L610,196 L640,199 L670,188 L700,191 L730,176 L750,168 L770,158 L800,140 L830,120 L860,104 L890,92 L920,84 L950,79 L980,76"
+        fill="none" stroke="#36BCF7" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="stroke-dasharray" from="0 1600" to="1600 0" dur="3.2s" fill="freeze"/>
+  </path>
+
+  <circle cx="520" cy="208" r="6" fill="none" stroke="#36BCF7" stroke-width="2.2">
+    <animate attributeName="r" values="6;13;6" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="1;0.12;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="520" cy="208" r="3" fill="#36BCF7"/>
+  <circle cx="770" cy="158" r="3.5" fill="#ff6b6b"/>
+
+  <text x="520" y="132" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#36BCF7" font-weight="600">drift detected</text>
+  <text x="770" y="132" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#ff6b6b" font-weight="600">threshold breach</text>
+  <text x="645" y="268" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#8b949e">lead time</text>
+
+  <text x="60" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="46" font-weight="700" fill="url(#nameGrad)" letter-spacing="1">Muskaan Gaur</text>
+  <text x="62" y="116" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" fill="#8b949e">AI / ML Engineer</text>
+  <text x="62" y="140" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#36BCF7" fill-opacity="0.9">catching the quiet failure before the loud one</text>
+</svg>

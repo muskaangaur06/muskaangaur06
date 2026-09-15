@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 260" width="260" height="260" role="img" aria-label="A monitoring panel: live signal, drift ring, and a rising alert level">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#36BCF7" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#36BCF7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="260" height="260" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="130" cy="120" r="105" fill="url(#glow)"/>
+
+  <g stroke="#36BCF7" stroke-opacity="0.07">
+    <path d="M20 60h220M20 120h220M20 180h220"/>
+  </g>
+
+  <circle cx="130" cy="120" r="74" fill="none" stroke="#30363d" stroke-width="1"/>
+  <circle cx="130" cy="120" r="74" fill="none" stroke="#36BCF7" stroke-width="2.5"
+          stroke-linecap="round" stroke-dasharray="70 395" transform="rotate(-90 130 120)">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="-90 130 120" to="270 130 120" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="130" cy="120" r="52" fill="none" stroke="#30363d" stroke-width="1" stroke-dasharray="3 6"/>
+
+  <path d="M78,120 L88,116 L96,124 L104,114 L112,122 L120,117 L128,123 L136,112 L144,118 L152,104 L160,110 L168,94 L176,100 L182,88"
+        fill="none" stroke="#36BCF7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="stroke-dasharray" from="0 300" to="300 0" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+
+  <circle cx="182" cy="88" r="4" fill="#ff6b6b">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="130" y="218" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#8b949e">monitoring</text>
+  <text x="130" y="236" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#36BCF7" font-weight="600">drift rising</text>
+</svg>

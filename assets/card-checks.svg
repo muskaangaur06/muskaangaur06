@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 240" width="440" height="240" role="img" aria-label="Card listing four checks run before shipping any model">
+  <rect x="0.5" y="0.5" width="439" height="239" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="22" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" font-weight="700" fill="#36BCF7">Before it ships</text>
+  <line x1="22" y1="46" x2="418" y2="46" stroke="#30363d"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12.5">
+    <text x="22" y="76" fill="#27c93f">[x]<tspan fill="#c9d1d9" dx="8">leakage audit</tspan></text>
+    <text x="40" y="94" fill="#8b949e" font-size="11">no future information in a training row</text>
+    <text x="22" y="124" fill="#27c93f">[x]<tspan fill="#c9d1d9" dx="8">time-ordered splits</tspan></text>
+    <text x="40" y="142" fill="#8b949e" font-size="11">never a random shuffle on a time series</text>
+    <text x="22" y="172" fill="#27c93f">[x]<tspan fill="#c9d1d9" dx="8">baseline comparison</tspan></text>
+    <text x="40" y="190" fill="#8b949e" font-size="11">if it cannot win, the baseline ships</text>
+    <text x="22" y="220" fill="#27c93f">[x]<tspan fill="#c9d1d9" dx="8">drift monitoring<tspan fill="#36BCF7" dx="6">_<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></tspan></tspan></text>
+  </g>
+</svg>
