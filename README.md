@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="Muskaan Gaur, AI / ML Engineer"/>
+<img src="assets/banner-hud.svg" width="100%" alt="Muskaan Gaur, AI / ML Engineer"/>
 
 <br/>
 

@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Muskaan Gaur, AI and ML Engineer">
+  <defs>
+    <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080503"/>
+      <stop offset="0.65" stop-color="#120705"/>
+      <stop offset="1" stop-color="#1c0c06"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e0602f" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#e0602f" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#e0602f" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6e2a13"/>
+      <stop offset="1" stop-color="#e0602f"/>
+    </linearGradient>
+    <linearGradient id="hveil" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#080503" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#080503" stop-opacity="0.2"/>
+    </linearGradient>
+    <clipPath id="hclip"><rect width="1000" height="250" rx="3"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#hclip)">
+    <rect width="1000" height="250" fill="url(#hbg)"/>
+
+    <!-- grid -->
+    <g stroke="#e0602f" stroke-opacity="0.11" stroke-width="1">
+      <path d="M0 0v250M30 0v250M60 0v250M90 0v250M120 0v250M150 0v250M180 0v250M210 0v250M240 0v250M270 0v250M300 0v250M330 0v250M360 0v250M390 0v250M420 0v250M450 0v250M480 0v250M510 0v250M540 0v250M570 0v250M600 0v250M630 0v250M660 0v250M690 0v250M720 0v250M750 0v250M780 0v250M810 0v250M840 0v250M870 0v250M900 0v250M930 0v250M960 0v250M990 0v250"/>
+      <path d="M0 0h1000M0 30h1000M0 60h1000M0 90h1000M0 120h1000M0 150h1000M0 180h1000M0 210h1000M0 240h1000"/>
+    </g>
+
+    <!-- sweeping scan -->
+    <rect x="0" y="-40" width="1000" height="70" fill="url(#scan)">
+      <animate attributeName="y" values="-70;250" dur="4.6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- corner brackets -->
+    <g stroke="#e0602f" stroke-opacity="0.55" stroke-width="2" fill="none">
+      <path d="M10 10h30M10 10v30"/>
+      <path d="M990 10h-30M990 10v30"/>
+      <path d="M10 240h30M10 240v-30"/>
+      <path d="M990 240h-30M990 240v-30"/>
+    </g>
+
+    <!-- top status bar -->
+    <rect x="0" y="0" width="1000" height="28" fill="#150a06"/>
+    <line x1="0" y1="28" x2="1000" y2="28" stroke="#47241a" stroke-width="1"/>
+    <circle cx="22" cy="14" r="3.5" fill="#e0602f">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="36" y="18" font-family="ui-monospace, 'Space Mono', monospace" font-size="10" fill="#e0602f" letter-spacing="2.4">PROFILE // MG.01</text>
+    <text x="978" y="18" font-family="ui-monospace, 'Space Mono', monospace" font-size="10" fill="#e0602f" letter-spacing="2.4" text-anchor="end">STATUS: ACTIVE</text>
+
+    <rect x="0" y="28" width="620" height="222" fill="url(#hveil)"/>
+
+    <!-- identity -->
+    <g font-family="ui-monospace, 'Space Mono', monospace">
+      <text x="44" y="96" font-size="36" font-weight="700" fill="#ffc4ae" letter-spacing="-0.5">MUSKAAN GAUR</text>
+      <text x="46" y="122" font-size="11" fill="#e0602f" letter-spacing="4.6">AI / ML ENGINEER</text>
+      <text x="46" y="150" font-size="12" fill="#a8705c">catching the quiet failure before the loud one</text>
+    </g>
+
+    <!-- loading bar -->
+    <g>
+      <rect x="44" y="170" width="540" height="20" fill="#100604" stroke="#47241a" stroke-width="1"/>
+      <rect x="45" y="171" width="0" height="18" fill="url(#fill)">
+        <animate attributeName="width" values="0;490" dur="2.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.75 0.3 1" keyTimes="0;1"/>
+      </rect>
+      <text x="314" y="184" font-family="ui-monospace, 'Space Mono', monospace" font-size="9"
+            fill="#ffdfd3" letter-spacing="2.8" text-anchor="middle">ESTABLISHING CONNECTION</text>
+    </g>
+
+    <!-- module strip -->
+    <g font-family="ui-monospace, 'Space Mono', monospace">
+      <rect x="44" y="202" width="172" height="34" fill="#100705" stroke="#47241a" stroke-width="1"/>
+      <text x="56" y="216" font-size="9.5" fill="#ffb89f" letter-spacing="1.8">FORECASTING</text>
+      <text x="56" y="229" font-size="8.5" fill="#c08a72" letter-spacing="0.8">anomaly · causal inference</text>
+
+      <rect x="228" y="202" width="172" height="34" fill="#100705" stroke="#47241a" stroke-width="1"/>
+      <text x="240" y="216" font-size="9.5" fill="#ffb89f" letter-spacing="1.8">RETRIEVAL</text>
+      <text x="240" y="229" font-size="8.5" fill="#c08a72" letter-spacing="0.8">rag · graphrag · agents</text>
+
+      <rect x="412" y="202" width="172" height="34" fill="#100705" stroke="#47241a" stroke-width="1"/>
+      <text x="424" y="216" font-size="9.5" fill="#ffb89f" letter-spacing="1.8">DELIVERY</text>
+      <text x="424" y="229" font-size="8.5" fill="#c08a72" letter-spacing="0.8">notebook to service</text>
+    </g>
+
+    <rect width="1000" height="250" rx="3" fill="none" stroke="#47241a" stroke-width="1.5"/>
+  </g>
+</svg>
