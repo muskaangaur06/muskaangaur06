@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 232" width="900" height="232" role="img" aria-label="ABOUT">
-<rect width="900" height="232" fill="#f4f8f6" stroke="#b8d4cb" stroke-width="1" rx="2"/>
-<rect width="900" height="34" fill="#e3efea"/>
-<line x1="0" y1="34" x2="900" y2="34" stroke="#b8d4cb" stroke-width="1"/>
-<rect x="0" y="0" width="4" height="34" fill="#0f766e"/>
-<text x="20" y="23" font-family="ui-monospace, monospace" font-size="12" fill="#0f766e" letter-spacing="3.2">ABOUT</text>
-<text x="880" y="23" font-family="ui-monospace, monospace" font-size="12" fill="#6e8f85" letter-spacing="3.2" text-anchor="end">01</text>
-<text x="24" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#24403a">Something is going wrong right now in a system somebody depends on, and the numbers still look fine. By the time a</text>
-<text x="24" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#24403a">threshold trips, the useful window has closed. Nearly everything I build lives in the gap between those two moments:</text>
-<text x="24" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#24403a">catch the drift while there is still time to act, then explain the cause well enough that someone acts on it.</text>
-<text x="24" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#24403a">The interesting problem is almost never the model. It is knowing what normal means for this system, and refusing to</text>
-<text x="24" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#24403a">borrow that answer from somewhere else.</text>
+<rect width="900" height="232" fill="#ffffff" stroke="#d0d7d5" stroke-width="1" rx="2"/>
+<rect width="900" height="34" fill="#f0f5f3"/>
+<line x1="0" y1="34" x2="900" y2="34" stroke="#d0d7d5" stroke-width="1"/>
+<rect x="0" y="0" width="4" height="34" fill="#047857"/>
+<text x="20" y="23" font-family="ui-monospace, monospace" font-size="12" fill="#047857" letter-spacing="3.2">ABOUT</text>
+<text x="880" y="23" font-family="ui-monospace, monospace" font-size="12" fill="#7a8582" letter-spacing="3.2" text-anchor="end">01</text>
+<text x="24" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#1a1f1e">Something is going wrong right now in a system somebody depends on, and the numbers still look fine. By the time a</text>
+<text x="24" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#1a1f1e">threshold trips, the useful window has closed. Nearly everything I build lives in the gap between those two moments:</text>
+<text x="24" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#1a1f1e">catch the drift while there is still time to act, then explain the cause well enough that someone acts on it.</text>
+<text x="24" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#1a1f1e">The interesting problem is almost never the model. It is knowing what normal means for this system, and refusing to</text>
+<text x="24" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#1a1f1e">borrow that answer from somewhere else.</text>
 </svg>

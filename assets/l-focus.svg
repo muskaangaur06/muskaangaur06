@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-label="FOCUS">
-<rect width="900" height="200" fill="#f4f8f6" stroke="#b8d4cb" stroke-width="1" rx="2"/>
-<rect width="900" height="34" fill="#e3efea"/>
-<line x1="0" y1="34" x2="900" y2="34" stroke="#b8d4cb" stroke-width="1"/>
-<rect x="0" y="0" width="4" height="34" fill="#0f766e"/>
-<text x="20" y="23" font-family="ui-monospace, monospace" font-size="12" fill="#0f766e" letter-spacing="3.2">FOCUS</text>
-<text x="880" y="23" font-family="ui-monospace, monospace" font-size="12" fill="#6e8f85" letter-spacing="3.2" text-anchor="end">02</text>
-<text x="24" y="66" font-family="ui-monospace, monospace" font-size="15" fill="#5f8a7f">forecasting</text>
-<text x="210" y="66" font-family="ui-monospace, monospace" font-size="15" fill="#1d3a34">anomaly detection and causal inference</text>
-<text x="24" y="96" font-family="ui-monospace, monospace" font-size="15" fill="#5f8a7f">retrieval</text>
-<text x="210" y="96" font-family="ui-monospace, monospace" font-size="15" fill="#1d3a34">RAG, GraphRAG and agentic applications</text>
-<text x="24" y="126" font-family="ui-monospace, monospace" font-size="15" fill="#5f8a7f">delivery</text>
-<text x="210" y="126" font-family="ui-monospace, monospace" font-size="15" fill="#1d3a34">research notebook through to deployed service</text>
-<text x="24" y="156" font-family="ui-monospace, monospace" font-size="15" fill="#5f8a7f">standard</text>
-<text x="210" y="156" font-family="ui-monospace, monospace" font-size="15" fill="#1d3a34">evaluation is the deliverable</text>
+<rect width="900" height="200" fill="#ffffff" stroke="#d0d7d5" stroke-width="1" rx="2"/>
+<rect width="900" height="34" fill="#f0f5f3"/>
+<line x1="0" y1="34" x2="900" y2="34" stroke="#d0d7d5" stroke-width="1"/>
+<rect x="0" y="0" width="4" height="34" fill="#047857"/>
+<text x="20" y="23" font-family="ui-monospace, monospace" font-size="12" fill="#047857" letter-spacing="3.2">FOCUS</text>
+<text x="880" y="23" font-family="ui-monospace, monospace" font-size="12" fill="#7a8582" letter-spacing="3.2" text-anchor="end">02</text>
+<text x="24" y="66" font-family="ui-monospace, monospace" font-size="15" fill="#6b7976">forecasting</text>
+<text x="210" y="66" font-family="ui-monospace, monospace" font-size="15" fill="#1a1f1e">anomaly detection and causal inference</text>
+<text x="24" y="96" font-family="ui-monospace, monospace" font-size="15" fill="#6b7976">retrieval</text>
+<text x="210" y="96" font-family="ui-monospace, monospace" font-size="15" fill="#1a1f1e">RAG, GraphRAG and agentic applications</text>
+<text x="24" y="126" font-family="ui-monospace, monospace" font-size="15" fill="#6b7976">delivery</text>
+<text x="210" y="126" font-family="ui-monospace, monospace" font-size="15" fill="#1a1f1e">research notebook through to deployed service</text>
+<text x="24" y="156" font-family="ui-monospace, monospace" font-size="15" fill="#6b7976">standard</text>
+<text x="210" y="156" font-family="ui-monospace, monospace" font-size="15" fill="#1a1f1e">evaluation is the deliverable</text>
 </svg>
