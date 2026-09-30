@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-banner.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/l-banner.svg"/>
-  <img src="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-banner.svg" width="100%" alt="Muskaan Gaur, AI / ML Engineer"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/banner-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/banner-light.svg"/>
+  <img src="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/banner-dark.svg" width="100%" alt="Muskaan Gaur, AI / ML Engineer"/>
 </picture>
 
 <p align="center">
