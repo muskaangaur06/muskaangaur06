@@ -36,10 +36,10 @@
     </g>
     <rect width="900" height="230" fill="url(#veill)"/>
     <g font-family="ui-monospace, monospace">
-      <text x="450" y="52" text-anchor="middle" font-size="15" fill="#6b7976" letter-spacing="2">$ whoami</text>
+      <text x="450" y="52" text-anchor="middle" font-size="15" fill="#5a6663" letter-spacing="2">$ whoami</text>
       <text x="450" y="112" text-anchor="middle" font-size="46" font-weight="700" fill="#000000" letter-spacing="-1">MUSKAAN <tspan fill="#047857">GAUR</tspan></text>
       <text x="450" y="144" text-anchor="middle" font-size="19" fill="#047857" letter-spacing="5.4">AI / ML ENGINEER</text>
-      <g font-size="17" fill="#2b3331">
+      <g font-size="17" fill="#1a1f1e">
         <text x="450" y="186" text-anchor="middle" opacity="0">the model is the short part
           <animate attributeName="opacity" values="0;1;1;0;0;0;0;0;0" dur="13.5s" repeatCount="indefinite"/></text>
         <text x="450" y="186" text-anchor="middle" opacity="0">normal is per system, never inherited
