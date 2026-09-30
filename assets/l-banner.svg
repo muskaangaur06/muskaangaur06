@@ -12,27 +12,22 @@
   </defs>
   <g clip-path="url(#cl)">
     <rect width="900" height="230" fill="url(#bgl)"/>
-    <g font-family="ui-monospace, monospace" font-size="14" fill="#047857">
-      <g opacity="0.32"><text x="24" y="0">1 { } \ 1 * ( 1 { = =</text><animateTransform attributeName="transform" type="translate" values="0,-68; 0,270" dur="7.9s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="70" y="0">1 } ) 1 | 1 ) 1 [ &gt; =</text><animateTransform attributeName="transform" type="translate" values="0,-53; 0,270" dur="6.4s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="116" y="0">] } ( \ } { 1 ( - = /</text><animateTransform attributeName="transform" type="translate" values="0,-60; 0,270" dur="6.9s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="162" y="0">) ] ) { &gt; * - / + &gt; {</text><animateTransform attributeName="transform" type="translate" values="0,-146; 0,270" dur="8.8s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="208" y="0">/ [ - = 1 { / / \ - +</text><animateTransform attributeName="transform" type="translate" values="0,-137; 0,270" dur="6.7s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="254" y="0">- { 1 &gt; + &gt; | \ 0 + \</text><animateTransform attributeName="transform" type="translate" values="0,-53; 0,270" dur="6.4s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="300" y="0">( &gt; [ ) | | - { ] + |</text><animateTransform attributeName="transform" type="translate" values="0,-59; 0,270" dur="7.0s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="346" y="0">= &lt; = \ | ) [ { ] [ )</text><animateTransform attributeName="transform" type="translate" values="0,-256; 0,270" dur="9.3s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="392" y="0">] &lt; &gt; 0 [ = \ / [ * 1</text><animateTransform attributeName="transform" type="translate" values="0,-33; 0,270" dur="10.0s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="438" y="0">| | | | } - | 1 ( { (</text><animateTransform attributeName="transform" type="translate" values="0,-252; 0,270" dur="8.7s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="484" y="0">1 } 0 [ } \ 0 { ( | [</text><animateTransform attributeName="transform" type="translate" values="0,-58; 0,270" dur="8.6s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="530" y="0">- } } - + - - &gt; { [ }</text><animateTransform attributeName="transform" type="translate" values="0,-118; 0,270" dur="9.8s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="576" y="0">] * 0 ( * \ [ 0 * &gt; {</text><animateTransform attributeName="transform" type="translate" values="0,-219; 0,270" dur="10.5s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="622" y="0">] \ ) * / ) ( ) | ) (</text><animateTransform attributeName="transform" type="translate" values="0,-96; 0,270" dur="10.2s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="668" y="0">0 &lt; - &lt; ( \ + \ \ { )</text><animateTransform attributeName="transform" type="translate" values="0,-121; 0,270" dur="9.1s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="714" y="0">( - 0 - \ { } | ( - ]</text><animateTransform attributeName="transform" type="translate" values="0,-150; 0,270" dur="6.6s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="760" y="0">| + | { ] ] [ 0 [ + [</text><animateTransform attributeName="transform" type="translate" values="0,-192; 0,270" dur="8.6s" repeatCount="indefinite"/></g>
-      <g opacity="0.34"><text x="806" y="0">\ [ [ 0 0 } * [ = ( (</text><animateTransform attributeName="transform" type="translate" values="0,-182; 0,270" dur="9.7s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="852" y="0">) / &lt; = [ 1 \ + * = *</text><animateTransform attributeName="transform" type="translate" values="0,-84; 0,270" dur="6.2s" repeatCount="indefinite"/></g>
-      <g opacity="0.32"><text x="898" y="0">0 + ] 0 [ ] [ - } 1 /</text><animateTransform attributeName="transform" type="translate" values="0,-68; 0,270" dur="6.8s" repeatCount="indefinite"/></g>
+    <g font-family="ui-monospace, monospace" font-size="15" fill="#047857">
+      <g opacity="0.16"><text x="26" y="0">8 ｰ ﾊ ﾈ ﾆ = ﾐ ﾐ ﾌ ｱ</text><animateTransform attributeName="transform" type="translate" values="0,-278; 0,270" dur="12.6s" repeatCount="indefinite"/></g>
+      <g opacity="0.17"><text x="88" y="0">ｱ ﾙ : ｲ ﾓ ｺ ｦ ﾇ ｹ ｰ</text><animateTransform attributeName="transform" type="translate" values="0,-61; 0,270" dur="10.1s" repeatCount="indefinite"/></g>
+      <g opacity="0.18"><text x="150" y="0">ｾ ﾁ 0 ﾅ ﾇ ﾗ ｻ ｴ ﾋ ﾙ</text><animateTransform attributeName="transform" type="translate" values="0,-55; 0,270" dur="16.0s" repeatCount="indefinite"/></g>
+      <g opacity="0.15"><text x="212" y="0">0 ﾖ ｿ ｴ ﾑ ﾈ ﾅ ﾎ ｺ 6</text><animateTransform attributeName="transform" type="translate" values="0,-182; 0,270" dur="12.7s" repeatCount="indefinite"/></g>
+      <g opacity="0.13"><text x="274" y="0">ﾓ ｻ ｸ ﾆ ﾊ ﾎ ﾘ ｾ ｼ ｳ</text><animateTransform attributeName="transform" type="translate" values="0,-245; 0,270" dur="15.1s" repeatCount="indefinite"/></g>
+      <g opacity="0.15"><text x="336" y="0">7 ﾓ ﾚ ﾍ ﾚ ｹ ﾀ ﾓ ｶ ﾘ</text><animateTransform attributeName="transform" type="translate" values="0,-243; 0,270" dur="16.8s" repeatCount="indefinite"/></g>
+      <g opacity="0.12"><text x="398" y="0">ｰ ｱ ﾙ 4 ﾋ ﾔ ﾗ ｰ ｴ ｾ</text><animateTransform attributeName="transform" type="translate" values="0,-91; 0,270" dur="10.1s" repeatCount="indefinite"/></g>
+      <g opacity="0.15"><text x="460" y="0">ｱ ﾊ ﾚ 1 ｱ ﾜ ﾘ ﾐ ﾘ 6</text><animateTransform attributeName="transform" type="translate" values="0,-99; 0,270" dur="14.1s" repeatCount="indefinite"/></g>
+      <g opacity="0.12"><text x="522" y="0">ﾈ ﾎ ﾄ ﾄ ｳ + ﾈ ﾜ ｻ ﾁ</text><animateTransform attributeName="transform" type="translate" values="0,-91; 0,270" dur="14.1s" repeatCount="indefinite"/></g>
+      <g opacity="0.17"><text x="584" y="0">ﾇ ﾓ 5 ﾊ ﾋ ﾚ ｹ 8 ｵ 2</text><animateTransform attributeName="transform" type="translate" values="0,-146; 0,270" dur="9.6s" repeatCount="indefinite"/></g>
+      <g opacity="0.13"><text x="646" y="0">ﾍ ｹ ｷ + ｲ ｰ ｸ 1 ﾅ ﾜ</text><animateTransform attributeName="transform" type="translate" values="0,-237; 0,270" dur="10.1s" repeatCount="indefinite"/></g>
+      <g opacity="0.15"><text x="708" y="0">ﾅ ﾆ ﾒ ﾈ ｿ ｽ ｵ ﾁ ﾈ 3</text><animateTransform attributeName="transform" type="translate" values="0,-80; 0,270" dur="16.1s" repeatCount="indefinite"/></g>
+      <g opacity="0.19"><text x="770" y="0">ｺ ﾏ ｷ ﾜ 4 : = ﾁ ﾋ ｱ</text><animateTransform attributeName="transform" type="translate" values="0,-129; 0,270" dur="12.9s" repeatCount="indefinite"/></g>
+      <g opacity="0.18"><text x="832" y="0">ｺ ﾙ ｷ ﾌ ｲ ﾇ ﾑ ﾙ ｰ ﾊ</text><animateTransform attributeName="transform" type="translate" values="0,-144; 0,270" dur="16.3s" repeatCount="indefinite"/></g>
+      <g opacity="0.13"><text x="894" y="0">ﾑ ﾖ ｽ ｦ 7 ﾕ 0 ﾏ ｻ ﾆ</text><animateTransform attributeName="transform" type="translate" values="0,-107; 0,270" dur="13.2s" repeatCount="indefinite"/></g>
     </g>
     <rect width="900" height="230" fill="url(#veill)"/>
     <g font-family="ui-monospace, monospace">
