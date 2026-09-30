@@ -4,6 +4,18 @@
   <img src="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-banner.svg" width="100%" alt="Muskaan Gaur, AI / ML Engineer"/>
 </picture>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/muskaan-gaur" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0b1f1c?style=for-the-badge&logo=linkedin&logoColor=4fd8c4&labelColor=0b1f1c" />
+  </a>
+  <a href="mailto:muskaanmilli@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-0b1f1c?style=for-the-badge&logo=gmail&logoColor=4fd8c4&labelColor=0b1f1c" />
+  </a>
+  <a href="https://github.com/muskaangaur06" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-0b1f1c?style=for-the-badge&logo=github&logoColor=4fd8c4&labelColor=0b1f1c" />
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-about.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/l-about.svg"/>
@@ -33,15 +45,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/l-footer.svg"/>
   <img src="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-footer.svg" width="100%" alt="If you are building something that has to keep working"/>
 </picture>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muskaan-gaur" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0b1f1c?style=for-the-badge&logo=linkedin&logoColor=4fd8c4&labelColor=0b1f1c" />
-  </a>
-  <a href="mailto:muskaanmilli@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-0b1f1c?style=for-the-badge&logo=gmail&logoColor=4fd8c4&labelColor=0b1f1c" />
-  </a>
-  <a href="https://github.com/muskaangaur06" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-0b1f1c?style=for-the-badge&logo=github&logoColor=4fd8c4&labelColor=0b1f1c" />
-  </a>
-</p>
