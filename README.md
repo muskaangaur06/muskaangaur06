@@ -1,11 +1,9 @@
 <img src="assets/banner-hud.svg" width="100%" alt="Muskaan Gaur, AI / ML Engineer"/>
 
-<br/>
+<img src="assets/hd-about.svg" width="100%" alt="ABOUT 01"/>
 
-<table>
+<table width="100%">
 <tr><td width="100%">
-
-**`ABOUT`** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `01`
 
 Something is going wrong right now in a system somebody depends on, and the numbers still look fine. By the time a threshold trips, the useful window has closed. Nearly everything I build lives in the gap between those two moments: catch the drift while there is still time to act, then explain the cause well enough that someone will actually act on it.
 
@@ -14,10 +12,10 @@ The interesting problem is almost never the model. It is knowing what *normal* m
 </td></tr>
 </table>
 
-<table>
-<tr><td width="100%">
+<img src="assets/hd-method.svg" width="100%" alt="METHOD 02"/>
 
-**`METHOD`** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `02`
+<table width="100%">
+<tr><td width="100%">
 
 **Constants come from the system in front of me.** Thresholds, weights and baselines get built from that system's own data. Inheriting them from a similar looking system is how you ship a model that is confidently wrong.
 
@@ -30,61 +28,13 @@ The interesting problem is almost never the model. It is knowing what *normal* m
 </td></tr>
 </table>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<img src="assets/hd-stack.svg" width="100%" alt="STACK 03"/>
 
-**`MODELLING`**
+<img src="assets/stack-grid.svg" width="100%" alt="Modelling, retrieval and serving stack"/>
 
-```
-pytorch
-scikit-learn
-xgboost
-statsmodels
-pandas · numpy · scipy
-```
+<img src="assets/hd-failures.svg" width="100%" alt="Failure modes and how they get handled"/>
 
-</td>
-<td width="33%" valign="top">
-
-**`RETRIEVAL`**
-
-```
-faiss
-neo4j
-langgraph
-chromadb
-onnx · ragas
-```
-
-</td>
-<td width="33%" valign="top">
-
-**`SERVING`**
-
-```
-fastapi
-docker
-postgresql
-prometheus
-grafana · nginx
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskaangaur06&show_icons=true&hide_border=true&bg_color=080503&title_color=e0602f&text_color=c08a72&icon_color=e0602f&hide=contribs&card_width=420" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/EVALUATION%20IS%20THE%20DELIVERABLE-1c0a05?style=for-the-badge&labelColor=1c0a05&color=1c0a05" />
-</p>
+<img src="assets/hd-footer.svg" width="100%" alt="Evaluation is the deliverable"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muskaan-gaur" target="_blank">
@@ -95,8 +45,5 @@ grafana · nginx
   </a>
   <a href="https://github.com/muskaangaur06" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-160a06?style=for-the-badge&logo=github&logoColor=e0a488&labelColor=160a06" />
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/HUGGING%20FACE-160a06?style=for-the-badge&logo=huggingface&logoColor=e0a488&labelColor=160a06" />
   </a>
 </p>

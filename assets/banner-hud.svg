@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Muskaan Gaur, AI and ML Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270" role="img" aria-label="Muskaan Gaur, AI and ML Engineer">
   <defs>
     <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#080503"/>
-      <stop offset="0.65" stop-color="#120705"/>
-      <stop offset="1" stop-color="#1c0c06"/>
+      <stop offset="0.6" stop-color="#130806"/>
+      <stop offset="1" stop-color="#1f0d07"/>
     </linearGradient>
     <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#e0602f" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#e0602f" stop-opacity="0.22"/>
+      <stop offset="0.5" stop-color="#e0602f" stop-opacity="0.20"/>
       <stop offset="1" stop-color="#e0602f" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="fill" x1="0" y1="0" x2="1" y2="0">
@@ -15,77 +15,122 @@
       <stop offset="1" stop-color="#e0602f"/>
     </linearGradient>
     <linearGradient id="hveil" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#080503" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#080503" stop-opacity="0.2"/>
+      <stop offset="0" stop-color="#080503" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#080503" stop-opacity="0.35"/>
     </linearGradient>
-    <clipPath id="hclip"><rect width="1000" height="250" rx="3"/></clipPath>
+    <linearGradient id="sig" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e0602f" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#ff8a5c" stop-opacity="0.95"/>
+    </linearGradient>
+    <clipPath id="hclip"><rect width="1200" height="270" rx="3"/></clipPath>
   </defs>
 
   <g clip-path="url(#hclip)">
-    <rect width="1000" height="250" fill="url(#hbg)"/>
+    <rect width="1200" height="270" fill="url(#hbg)"/>
 
-    <!-- grid -->
-    <g stroke="#e0602f" stroke-opacity="0.11" stroke-width="1">
-      <path d="M0 0v250M30 0v250M60 0v250M90 0v250M120 0v250M150 0v250M180 0v250M210 0v250M240 0v250M270 0v250M300 0v250M330 0v250M360 0v250M390 0v250M420 0v250M450 0v250M480 0v250M510 0v250M540 0v250M570 0v250M600 0v250M630 0v250M660 0v250M690 0v250M720 0v250M750 0v250M780 0v250M810 0v250M840 0v250M870 0v250M900 0v250M930 0v250M960 0v250M990 0v250"/>
-      <path d="M0 0h1000M0 30h1000M0 60h1000M0 90h1000M0 120h1000M0 150h1000M0 180h1000M0 210h1000M0 240h1000"/>
+    <g stroke="#e0602f" stroke-opacity="0.10" stroke-width="1">
+      <path d="M0 0v270M30 0v270M60 0v270M90 0v270M120 0v270M150 0v270M180 0v270M210 0v270M240 0v270M270 0v270M300 0v270M330 0v270M360 0v270M390 0v270M420 0v270M450 0v270M480 0v270M510 0v270M540 0v270M570 0v270M600 0v270M630 0v270M660 0v270M690 0v270M720 0v270M750 0v270M780 0v270M810 0v270M840 0v270M870 0v270M900 0v270M930 0v270M960 0v270M990 0v270M1020 0v270M1050 0v270M1080 0v270M1110 0v270M1140 0v270M1170 0v270"/>
+      <path d="M0 0h1200M0 30h1200M0 60h1200M0 90h1200M0 120h1200M0 150h1200M0 180h1200M0 210h1200M0 240h1200"/>
     </g>
 
-    <!-- sweeping scan -->
-    <rect x="0" y="-40" width="1000" height="70" fill="url(#scan)">
-      <animate attributeName="y" values="-70;250" dur="4.6s" repeatCount="indefinite"/>
+    <rect x="0" y="-70" width="1200" height="70" fill="url(#scan)">
+      <animate attributeName="y" values="-70;270" dur="5s" repeatCount="indefinite"/>
     </rect>
 
-    <!-- corner brackets -->
-    <g stroke="#e0602f" stroke-opacity="0.55" stroke-width="2" fill="none">
-      <path d="M10 10h30M10 10v30"/>
-      <path d="M990 10h-30M990 10v30"/>
-      <path d="M10 240h30M10 240v-30"/>
-      <path d="M990 240h-30M990 240v-30"/>
+    <g stroke="#e0602f" stroke-opacity="0.5" stroke-width="2" fill="none">
+      <path d="M10 38h30M10 38v26"/>
+      <path d="M1190 38h-30M1190 38v26"/>
+      <path d="M10 260h30M10 260v-26"/>
+      <path d="M1190 260h-30M1190 260v-26"/>
     </g>
 
-    <!-- top status bar -->
-    <rect x="0" y="0" width="1000" height="28" fill="#150a06"/>
-    <line x1="0" y1="28" x2="1000" y2="28" stroke="#47241a" stroke-width="1"/>
+    <rect x="0" y="0" width="1200" height="28" fill="#150a06"/>
+    <line x1="0" y1="28" x2="1200" y2="28" stroke="#47241a" stroke-width="1"/>
     <circle cx="22" cy="14" r="3.5" fill="#e0602f">
       <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
     </circle>
     <text x="36" y="18" font-family="ui-monospace, 'Space Mono', monospace" font-size="10" fill="#e0602f" letter-spacing="2.4">PROFILE // MG.01</text>
-    <text x="978" y="18" font-family="ui-monospace, 'Space Mono', monospace" font-size="10" fill="#e0602f" letter-spacing="2.4" text-anchor="end">STATUS: ACTIVE</text>
+    <text x="600" y="18" font-family="ui-monospace, 'Space Mono', monospace" font-size="10" fill="#8a4a30" letter-spacing="2.2" text-anchor="middle">FORECASTING · ANOMALY DETECTION · APPLIED LLM SYSTEMS</text>
+    <text x="1178" y="18" font-family="ui-monospace, 'Space Mono', monospace" font-size="10" fill="#e0602f" letter-spacing="2.4" text-anchor="end">STATUS: ACTIVE</text>
 
-    <rect x="0" y="28" width="620" height="222" fill="url(#hveil)"/>
+    <rect x="0" y="28" width="700" height="242" fill="url(#hveil)"/>
 
-    <!-- identity -->
     <g font-family="ui-monospace, 'Space Mono', monospace">
       <text x="44" y="96" font-size="36" font-weight="700" fill="#ffc4ae" letter-spacing="-0.5">MUSKAAN GAUR</text>
       <text x="46" y="122" font-size="11" fill="#e0602f" letter-spacing="4.6">AI / ML ENGINEER</text>
       <text x="46" y="150" font-size="12" fill="#a8705c">catching the quiet failure before the loud one</text>
     </g>
 
-    <!-- loading bar -->
     <g>
       <rect x="44" y="170" width="540" height="20" fill="#100604" stroke="#47241a" stroke-width="1"/>
       <rect x="45" y="171" width="0" height="18" fill="url(#fill)">
-        <animate attributeName="width" values="0;490" dur="2.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.75 0.3 1" keyTimes="0;1"/>
+        <animate attributeName="width" values="0;492" dur="2.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.75 0.3 1" keyTimes="0;1"/>
       </rect>
       <text x="314" y="184" font-family="ui-monospace, 'Space Mono', monospace" font-size="9"
             fill="#ffdfd3" letter-spacing="2.8" text-anchor="middle">ESTABLISHING CONNECTION</text>
     </g>
 
-    <!-- module strip -->
     <g font-family="ui-monospace, 'Space Mono', monospace">
-      <rect x="44" y="202" width="172" height="34" fill="#100705" stroke="#47241a" stroke-width="1"/>
-      <text x="56" y="216" font-size="9.5" fill="#ffb89f" letter-spacing="1.8">FORECASTING</text>
-      <text x="56" y="229" font-size="8.5" fill="#c08a72" letter-spacing="0.8">anomaly · causal inference</text>
+      <rect x="44" y="202" width="172" height="36" fill="#100705" stroke="#47241a" stroke-width="1"/>
+      <text x="56" y="217" font-size="9.5" fill="#ffb89f" letter-spacing="1.8">FORECASTING</text>
+      <text x="56" y="230" font-size="8.5" fill="#c08a72">anomaly · causal inference</text>
 
-      <rect x="228" y="202" width="172" height="34" fill="#100705" stroke="#47241a" stroke-width="1"/>
-      <text x="240" y="216" font-size="9.5" fill="#ffb89f" letter-spacing="1.8">RETRIEVAL</text>
-      <text x="240" y="229" font-size="8.5" fill="#c08a72" letter-spacing="0.8">rag · graphrag · agents</text>
+      <rect x="228" y="202" width="172" height="36" fill="#100705" stroke="#47241a" stroke-width="1"/>
+      <text x="240" y="217" font-size="9.5" fill="#ffb89f" letter-spacing="1.8">RETRIEVAL</text>
+      <text x="240" y="230" font-size="8.5" fill="#c08a72">rag · graphrag · agents</text>
 
-      <rect x="412" y="202" width="172" height="34" fill="#100705" stroke="#47241a" stroke-width="1"/>
-      <text x="424" y="216" font-size="9.5" fill="#ffb89f" letter-spacing="1.8">DELIVERY</text>
-      <text x="424" y="229" font-size="8.5" fill="#c08a72" letter-spacing="0.8">notebook to service</text>
+      <rect x="412" y="202" width="172" height="36" fill="#100705" stroke="#47241a" stroke-width="1"/>
+      <text x="424" y="217" font-size="9.5" fill="#ffb89f" letter-spacing="1.8">DELIVERY</text>
+      <text x="424" y="230" font-size="8.5" fill="#c08a72">notebook to service</text>
     </g>
 
-    <rect width="1000" height="250" rx="3" fill="none" stroke="#47241a" stroke-width="1.5"/>
+    <g font-family="ui-monospace, 'Space Mono', monospace">
+      <text x="700" y="58" font-size="9" fill="#8a4a30" letter-spacing="2.4">SIGNAL / RESIDUAL</text>
+
+      <rect x="700" y="68" width="470" height="56" fill="#e0602f" fill-opacity="0.04"/>
+      <line x1="700" y1="98" x2="1170" y2="98" stroke="#e0602f" stroke-opacity="0.22" stroke-dasharray="3 5"/>
+
+      <path d="M700 100 L730 97 L760 101 L790 96 L820 100 L850 97 L880 101 L910 95 L940 98 L970 92
+               L1000 88 L1030 81 L1060 72 L1090 60 L1120 47 L1150 34 L1170 26"
+            fill="none" stroke="url(#sig)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="1170" cy="26" r="3.5" fill="#ff8a5c">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1170" cy="26" r="7" fill="none" stroke="#ff8a5c" stroke-opacity="0.45" stroke-width="1">
+        <animate attributeName="r" values="7;15;7" dur="2.6s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values="0.45;0;0.45" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+
+      <line x1="1000" y1="68" x2="1000" y2="124" stroke="#e0602f" stroke-opacity="0.35" stroke-dasharray="2 4"/>
+      <text x="1006" y="120" font-size="8" fill="#a8705c">drift begins</text>
+
+      <g font-size="9" letter-spacing="1.2">
+        <text x="700" y="150" fill="#8a4a30">RESIDUAL</text>
+        <text x="828" y="150" fill="#ffb89f">rising</text>
+        <rect x="900" y="143" width="270" height="6" fill="#100705" stroke="#47241a" stroke-width="0.8"/>
+        <rect x="901" y="144" width="0" height="4" fill="#e0602f">
+          <animate attributeName="width" values="0;196" dur="3.2s" fill="freeze"/>
+        </rect>
+
+        <text x="700" y="172" fill="#8a4a30">BASELINE</text>
+        <text x="828" y="172" fill="#c08a72">per unit</text>
+        <rect x="900" y="165" width="270" height="6" fill="#100705" stroke="#47241a" stroke-width="0.8"/>
+        <rect x="901" y="166" width="0" height="4" fill="#e0602f" fill-opacity="0.7">
+          <animate attributeName="width" values="0;252" dur="2.8s" fill="freeze"/>
+        </rect>
+
+        <text x="700" y="194" fill="#8a4a30">FALLBACK</text>
+        <text x="828" y="194" fill="#c08a72">armed</text>
+        <rect x="900" y="187" width="270" height="6" fill="#100705" stroke="#47241a" stroke-width="0.8"/>
+        <rect x="901" y="188" width="0" height="4" fill="#e0602f" fill-opacity="0.55">
+          <animate attributeName="width" values="0;268" dur="2.4s" fill="freeze"/>
+        </rect>
+      </g>
+
+      <rect x="700" y="206" width="470" height="32" fill="#1c0a05" stroke="#e0602f" stroke-width="1"/>
+      <text x="935" y="226" font-size="9.5" fill="#ffb89f" letter-spacing="2.6" text-anchor="middle">ACT BEFORE THE THRESHOLD TRIPS</text>
+    </g>
+
+    <rect width="1200" height="270" rx="3" fill="none" stroke="#47241a" stroke-width="1.5"/>
   </g>
 </svg>
