@@ -3,32 +3,31 @@
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#04070a"/><stop offset="0.6" stop-color="#051411"/><stop offset="1" stop-color="#07211b"/>
     </linearGradient>
-    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#04070a" stop-opacity="0"/><stop offset="1" stop-color="#04070a" stop-opacity="0.9"/>
-    </linearGradient>
-    <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#04070a" stop-opacity="0.9"/><stop offset="1" stop-color="#04070a" stop-opacity="0"/>
-    </linearGradient>
     <clipPath id="c"><rect width="900" height="230" rx="6"/></clipPath>
+    <clipPath id="left"><rect x="0" y="0" width="200" height="230"/></clipPath>
+    <clipPath id="right"><rect x="700" y="0" width="200" height="230"/></clipPath>
   </defs>
   <g clip-path="url(#c)">
     <rect width="900" height="230" fill="url(#bg)"/>
 
     <g font-family="ui-monospace, monospace" font-size="17" font-weight="500" fill="#7dffe4">
-      <g opacity="0.78"><text x="16" y="0">8 ｰ ﾊ ﾈ ﾆ = ﾐ ﾐ</text><animateTransform attributeName="transform" type="translate" values="0,-278; 0,270" dur="11.2s" repeatCount="indefinite"/></g>
-      <g opacity="0.65"><text x="68" y="0">ｶ 2 ｱ ﾙ : ｲ ﾓ ｺ</text><animateTransform attributeName="transform" type="translate" values="0,-112; 0,270" dur="11.1s" repeatCount="indefinite"/></g>
-      <g opacity="0.69"><text x="120" y="0">ﾀ 5 ﾎ ﾋ ｾ ﾁ 0 ﾅ</text><animateTransform attributeName="transform" type="translate" values="0,-58; 0,270" dur="8.4s" repeatCount="indefinite"/></g>
-      <g opacity="0.8"><text x="172" y="0">ﾙ ﾝ ﾐ ｴ 0 ﾖ ｿ ｴ</text><animateTransform attributeName="transform" type="translate" values="0,-190; 0,270" dur="11.6s" repeatCount="indefinite"/></g>
-      <g opacity="0.63"><text x="224" y="0">6 ﾆ ﾏ ﾆ ﾓ ｻ ｸ ﾆ</text><animateTransform attributeName="transform" type="translate" values="0,-187; 0,270" dur="13.3s" repeatCount="indefinite"/></g>
-      <g opacity="0.7"><text x="692" y="0">ｾ ｼ ｳ ﾎ ｾ ﾁ 7 ﾓ</text><animateTransform attributeName="transform" type="translate" values="0,-40; 0,270" dur="13.9s" repeatCount="indefinite"/></g>
-      <g opacity="0.74"><text x="744" y="0">ｹ ﾀ ﾓ ｶ ﾘ ｶ ｦ ｳ</text><animateTransform attributeName="transform" type="translate" values="0,-178; 0,270" dur="13.4s" repeatCount="indefinite"/></g>
-      <g opacity="0.91"><text x="796" y="0">ﾙ 4 ﾋ ﾔ ﾗ ｰ ｴ ｾ</text><animateTransform attributeName="transform" type="translate" values="0,-278; 0,270" dur="8.1s" repeatCount="indefinite"/></g>
-      <g opacity="0.76"><text x="848" y="0">ｱ ﾊ ﾚ 1 ｱ ﾜ ﾘ ﾐ</text><animateTransform attributeName="transform" type="translate" values="0,-99; 0,270" dur="12.5s" repeatCount="indefinite"/></g>
+      <g clip-path="url(#left)">
+      <g opacity="0.81"><text x="14" y="0">8 ｰ ﾊ ﾈ ﾆ</text><animateTransform attributeName="transform" type="translate" values="0,-278; 0,270" dur="11.2s" repeatCount="indefinite"/></g>
+      <g opacity="0.68"><text x="60" y="0">ｱ ﾗ ﾝ ﾌ ｶ</text><animateTransform attributeName="transform" type="translate" values="0,-135; 0,270" dur="12.4s" repeatCount="indefinite"/></g>
+      <g opacity="0.99"><text x="710" y="0">: ｲ ﾓ ｺ ｦ</text><animateTransform attributeName="transform" type="translate" values="0,-242; 0,270" dur="12.2s" repeatCount="indefinite"/></g>
+      <g opacity="0.96"><text x="756" y="0">5 ﾎ ﾋ ｾ ﾁ</text><animateTransform attributeName="transform" type="translate" values="0,-137; 0,270" dur="8.4s" repeatCount="indefinite"/></g>
+      <g opacity="0.83"><text x="802" y="0">ｻ ｴ ﾋ ﾙ ﾝ</text><animateTransform attributeName="transform" type="translate" values="0,-140; 0,270" dur="12.1s" repeatCount="indefinite"/></g>
+      <g opacity="1.0"><text x="848" y="0">ﾖ ｿ ｴ ﾑ ﾈ</text><animateTransform attributeName="transform" type="translate" values="0,-248; 0,270" dur="12.6s" repeatCount="indefinite"/></g>
+      </g>
+      <g clip-path="url(#right)">
+      <g opacity="0.81"><text x="14" y="0">8 ｰ ﾊ ﾈ ﾆ</text><animateTransform attributeName="transform" type="translate" values="0,-278; 0,270" dur="11.2s" repeatCount="indefinite"/></g>
+      <g opacity="0.68"><text x="60" y="0">ｱ ﾗ ﾝ ﾌ ｶ</text><animateTransform attributeName="transform" type="translate" values="0,-135; 0,270" dur="12.4s" repeatCount="indefinite"/></g>
+      <g opacity="0.99"><text x="710" y="0">: ｲ ﾓ ｺ ｦ</text><animateTransform attributeName="transform" type="translate" values="0,-242; 0,270" dur="12.2s" repeatCount="indefinite"/></g>
+      <g opacity="0.96"><text x="756" y="0">5 ﾎ ﾋ ｾ ﾁ</text><animateTransform attributeName="transform" type="translate" values="0,-137; 0,270" dur="8.4s" repeatCount="indefinite"/></g>
+      <g opacity="0.83"><text x="802" y="0">ｻ ｴ ﾋ ﾙ ﾝ</text><animateTransform attributeName="transform" type="translate" values="0,-140; 0,270" dur="12.1s" repeatCount="indefinite"/></g>
+      <g opacity="1.0"><text x="848" y="0">ﾖ ｿ ｴ ﾑ ﾈ</text><animateTransform attributeName="transform" type="translate" values="0,-248; 0,270" dur="12.6s" repeatCount="indefinite"/></g>
+      </g>
     </g>
-
-    <rect x="222" y="0" width="40" height="230" fill="url(#fadeL)"/>
-    <rect x="638" y="0" width="40" height="230" fill="url(#fadeR)"/>
-    <rect x="262" y="0" width="376" height="230" fill="#04070a" opacity="0.92"/>
 
     <g font-family="ui-monospace, monospace">
       <text x="450" y="52" text-anchor="middle" font-size="15" fill="#9fd8cd" letter-spacing="2">$ whoami</text>
