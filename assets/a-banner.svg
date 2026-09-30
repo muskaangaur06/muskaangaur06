@@ -5,8 +5,8 @@
     </linearGradient>
     <linearGradient id="veil" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#04070a" stop-opacity="0.95"/>
-      <stop offset="0.62" stop-color="#04070a" stop-opacity="0.78"/>
-      <stop offset="1" stop-color="#04070a" stop-opacity="0.2"/>
+      <stop offset="0.5" stop-color="#04070a" stop-opacity="0.80"/>
+      <stop offset="1" stop-color="#04070a" stop-opacity="0.88"/>
     </linearGradient>
     <clipPath id="c"><rect width="900" height="230" rx="6"/></clipPath>
   </defs>
@@ -36,18 +36,18 @@
     </g>
     <rect width="900" height="230" fill="url(#veil)"/>
     <g font-family="ui-monospace, monospace">
-      <text x="40" y="50" font-size="15" fill="#2f7d70" letter-spacing="2">$ whoami</text>
-      <text x="40" y="110" font-size="46" font-weight="700" fill="#e2fff8" letter-spacing="-1">MUSKAAN <tspan fill="#4fd8c4">GAUR</tspan></text>
-      <text x="42" y="140" font-size="19" fill="#4fd8c4" letter-spacing="5.4">AI / ML ENGINEER</text>
+      <text x="450" y="52" text-anchor="middle" font-size="15" fill="#2f7d70" letter-spacing="2">$ whoami</text>
+      <text x="450" y="112" text-anchor="middle" font-size="46" font-weight="700" fill="#e2fff8" letter-spacing="-1">MUSKAAN <tspan fill="#4fd8c4">GAUR</tspan></text>
+      <text x="450" y="144" text-anchor="middle" font-size="19" fill="#4fd8c4" letter-spacing="5.4">AI / ML ENGINEER</text>
       <g font-size="17" fill="#8fb3ab">
-        <text x="42" y="180" opacity="0">the model is the short part
+        <text x="450" y="186" text-anchor="middle" opacity="0">the model is the short part
           <animate attributeName="opacity" values="0;1;1;0;0;0;0;0;0" dur="13.5s" repeatCount="indefinite"/></text>
-        <text x="42" y="180" opacity="0">normal is per system, never inherited
+        <text x="450" y="186" text-anchor="middle" opacity="0">normal is per system, never inherited
           <animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0" dur="13.5s" repeatCount="indefinite"/></text>
-        <text x="42" y="180" opacity="0">the fallback ships before the clever path
+        <text x="450" y="186" text-anchor="middle" opacity="0">the fallback ships before the clever path
           <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;1" dur="13.5s" repeatCount="indefinite"/></text>
       </g>
-      <rect x="42" y="196" width="9" height="17" fill="#4fd8c4">
+      <rect x="446" y="202" width="9" height="17" fill="#4fd8c4">
         <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
       </rect>
     </g>
