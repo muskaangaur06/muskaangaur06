@@ -8,13 +8,25 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muskaan-gaur" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0b1f1c?style=for-the-badge&logo=linkedin&logoColor=4fd8c4&labelColor=0b1f1c" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0b1f1c?style=for-the-badge&logo=linkedin&logoColor=4fd8c4&labelColor=0b1f1c"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LINKEDIN-ffffff?style=for-the-badge&logo=linkedin&logoColor=047857&labelColor=ffffff"/>
+      <img src="https://img.shields.io/badge/LINKEDIN-0b1f1c?style=for-the-badge&logo=linkedin&logoColor=4fd8c4&labelColor=0b1f1c" alt="LINKEDIN"/>
+    </picture>
   </a>
   <a href="mailto:muskaanmilli@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-0b1f1c?style=for-the-badge&logo=gmail&logoColor=4fd8c4&labelColor=0b1f1c" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0b1f1c?style=for-the-badge&logo=gmail&logoColor=4fd8c4&labelColor=0b1f1c"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/EMAIL-ffffff?style=for-the-badge&logo=gmail&logoColor=047857&labelColor=ffffff"/>
+      <img src="https://img.shields.io/badge/EMAIL-0b1f1c?style=for-the-badge&logo=gmail&logoColor=4fd8c4&labelColor=0b1f1c" alt="EMAIL"/>
+    </picture>
   </a>
   <a href="https://github.com/muskaangaur06" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-0b1f1c?style=for-the-badge&logo=github&logoColor=4fd8c4&labelColor=0b1f1c" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0b1f1c?style=for-the-badge&logo=github&logoColor=4fd8c4&labelColor=0b1f1c"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=047857&labelColor=ffffff"/>
+      <img src="https://img.shields.io/badge/GITHUB-0b1f1c?style=for-the-badge&logo=github&logoColor=4fd8c4&labelColor=0b1f1c" alt="GITHUB"/>
+    </picture>
   </a>
 </p>
 
