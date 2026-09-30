@@ -1,14 +1,38 @@
-<img src="assets/a-banner.svg" width="100%" alt="Muskaan Gaur, AI / ML Engineer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-banner.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/l-banner.svg"/>
+  <img src="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-banner.svg" width="100%" alt="Muskaan Gaur, AI / ML Engineer"/>
+</picture>
 
-<img src="assets/a-about.svg" width="100%" alt="About"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-about.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/l-about.svg"/>
+  <img src="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-about.svg" width="100%" alt="About"/>
+</picture>
 
-<img src="assets/a-focus.svg" width="100%" alt="Focus"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-focus.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/l-focus.svg"/>
+  <img src="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-focus.svg" width="100%" alt="Focus"/>
+</picture>
 
-<img src="assets/a-method.svg" width="100%" alt="Method"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-method.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/l-method.svg"/>
+  <img src="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-method.svg" width="100%" alt="Method"/>
+</picture>
 
-<img src="assets/a-stack.svg" width="100%" alt="Stack"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-stack.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/l-stack.svg"/>
+  <img src="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-stack.svg" width="100%" alt="Stack"/>
+</picture>
 
-<img src="assets/a-footer.svg" width="100%" alt="If you are building something that has to keep working"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-footer.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/l-footer.svg"/>
+  <img src="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-footer.svg" width="100%" alt="If you are building something that has to keep working"/>
+</picture>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muskaan-gaur" target="_blank">
