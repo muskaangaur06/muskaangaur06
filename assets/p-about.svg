@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 214" width="1200" height="214" role="img" aria-label="ABOUT">
+<rect width="1200" height="214" fill="#0d0604" stroke="#47241a" stroke-width="1" rx="2"/>
+<rect width="1200" height="32" fill="#160a06"/>
+<line x1="0" y1="32" x2="1200" y2="32" stroke="#47241a" stroke-width="1"/>
+<rect x="0" y="0" width="4" height="32" fill="#e0602f"/>
+<text x="22" y="21" font-family="ui-monospace, monospace" font-size="11" fill="#e0602f" letter-spacing="3.4">ABOUT</text>
+<text x="1178" y="21" font-family="ui-monospace, monospace" font-size="11" fill="#8a4a30" letter-spacing="3.4" text-anchor="end">01</text>
+<text x="24" y="56" font-family="ui-monospace, monospace" font-size="13" fill="#c9a494">Something is going wrong right now in a system somebody depends on, and the numbers still look fine.</text>
+<text x="24" y="77" font-family="ui-monospace, monospace" font-size="13" fill="#c9a494">By the time a threshold trips, the useful window has closed. Nearly everything I build lives in the</text>
+<text x="24" y="98" font-family="ui-monospace, monospace" font-size="13" fill="#c9a494">gap between those two moments: catch the drift while there is still time to act, then explain the</text>
+<text x="24" y="119" font-family="ui-monospace, monospace" font-size="13" fill="#c9a494">cause well enough that someone will actually act on it.</text>
+<text x="24" y="152" font-family="ui-monospace, monospace" font-size="13" fill="#c9a494">The interesting problem is almost never the model. It is knowing what normal means for this system,</text>
+<text x="24" y="173" font-family="ui-monospace, monospace" font-size="13" fill="#c9a494">and refusing to borrow that answer from somewhere else.</text>
+</svg>

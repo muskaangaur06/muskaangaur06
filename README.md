@@ -1,32 +1,8 @@
 <img src="assets/banner-hud.svg" width="100%" alt="Muskaan Gaur, AI / ML Engineer"/>
 
-<img src="assets/hd-about.svg" width="100%" alt="ABOUT 01"/>
+<img src="assets/p-about.svg" width="100%" alt="About"/>
 
-<table width="100%">
-<tr><td width="100%">
-
-Something is going wrong right now in a system somebody depends on, and the numbers still look fine. By the time a threshold trips, the useful window has closed. Nearly everything I build lives in the gap between those two moments: catch the drift while there is still time to act, then explain the cause well enough that someone will actually act on it.
-
-The interesting problem is almost never the model. It is knowing what *normal* means for **this** system, and refusing to borrow that answer from somewhere else.
-
-</td></tr>
-</table>
-
-<img src="assets/hd-method.svg" width="100%" alt="METHOD 02"/>
-
-<table width="100%">
-<tr><td width="100%">
-
-**Constants come from the system in front of me.** Thresholds, weights and baselines get built from that system's own data. Inheriting them from a similar looking system is how you ship a model that is confidently wrong.
-
-**A detection nobody can explain is a detection nobody uses.** Flagging an anomaly is the easy half. Tracing it to a cause, with statistical testing behind the claim, is what turns an alert into a decision.
-
-**Deterministic where it counts, generative where it helps.** Search, ranking and scoring stay deterministic and testable. The model writes prose. When generated text fails its check against the source, a rule based version ships instead, so the system degrades rather than lies.
-
-**Evaluation is the deliverable.** Anyone can post a number. The work is building the split that makes the number mean something.
-
-</td></tr>
-</table>
+<img src="assets/p-method.svg" width="100%" alt="Method"/>
 
 <img src="assets/hd-stack.svg" width="100%" alt="STACK 03"/>
 
