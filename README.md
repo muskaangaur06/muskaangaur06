@@ -4,7 +4,6 @@
   <img src="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-banner.svg" width="100%" alt="Muskaan Gaur, AI / ML Engineer"/>
 </picture>
 
-<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muskaan-gaur" target="_blank">
@@ -30,7 +29,6 @@
   </a>
 </p>
 
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muskaangaur06/muskaangaur06/main/assets/a-about.svg"/>
