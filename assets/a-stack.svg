@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-label="Stack">
+<rect width="900" height="200" fill="#04100d"/>
+<rect x="0" y="0" width="293" height="200" fill="#07140f" stroke="#1a3d36" stroke-width="1"/>
+<rect x="0" y="0" width="293" height="32" fill="#0a1917"/>
+<line x1="0" y1="32" x2="293" y2="32" stroke="#1a3d36" stroke-width="1"/>
+<text x="16" y="21" font-family="ui-monospace, monospace" font-size="13" fill="#8fc9bf" letter-spacing="2.4">MODELLING</text>
+<text x="16" y="60" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">pytorch</text>
+<text x="16" y="87" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">scikit-learn</text>
+<text x="16" y="114" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">xgboost</text>
+<text x="16" y="141" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">statsmodels</text>
+<text x="16" y="168" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">pandas  numpy  scipy</text>
+<rect x="303" y="0" width="293" height="200" fill="#07140f" stroke="#1a3d36" stroke-width="1"/>
+<rect x="303" y="0" width="293" height="32" fill="#0a1917"/>
+<line x1="303" y1="32" x2="596" y2="32" stroke="#1a3d36" stroke-width="1"/>
+<text x="319" y="21" font-family="ui-monospace, monospace" font-size="13" fill="#8fc9bf" letter-spacing="2.4">RETRIEVAL</text>
+<text x="319" y="60" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">faiss</text>
+<text x="319" y="87" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">neo4j</text>
+<text x="319" y="114" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">langgraph</text>
+<text x="319" y="141" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">chromadb</text>
+<text x="319" y="168" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">onnx  ragas</text>
+<rect x="606" y="0" width="293" height="200" fill="#07140f" stroke="#1a3d36" stroke-width="1"/>
+<rect x="606" y="0" width="293" height="32" fill="#0a1917"/>
+<line x1="606" y1="32" x2="899" y2="32" stroke="#1a3d36" stroke-width="1"/>
+<text x="622" y="21" font-family="ui-monospace, monospace" font-size="13" fill="#8fc9bf" letter-spacing="2.4">SERVING</text>
+<text x="622" y="60" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">fastapi</text>
+<text x="622" y="87" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">docker</text>
+<text x="622" y="114" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">postgresql</text>
+<text x="622" y="141" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">prometheus</text>
+<text x="622" y="168" font-family="ui-monospace, monospace" font-size="14.5" fill="#a9c4be">grafana  nginx</text>
+</svg>
